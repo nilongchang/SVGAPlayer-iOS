@@ -1,3 +1,4 @@
+基于2.5.7fork,处理OSAtomicCompareAndSwapPtrBarrier报错
 # Archived
 本仓库已经停止维护，你仍然继续阅读源码及创建分叉，但本仓库不会继续更新，也不会回答任何 issue。
 
